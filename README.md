@@ -108,7 +108,7 @@ The dataset is self-generated:
 * Labels are assigned based on **entropy thresholds**
 * The dataset is **normalized** before training the model
 
-The extracted feature datasets for the three images are available in the `data/` folder.
+The extracted feature datasets for the three images are available in the `data/` folder. MATLAB is required for feature extraction.
 
 ---
 
@@ -157,5 +157,5 @@ The publication presents the proposed selective encryption and decryption framew
 ---
 
 ##  Author
-Sandeep Das Yadav P.
+Sandeep Das Yadav P,
 B.Tech Electronics and Communication Engineering
