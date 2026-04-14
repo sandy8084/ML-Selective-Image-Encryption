@@ -148,11 +148,14 @@ python src/pipeline.py
 
 ## Publication
 
-This work has been published in the **IOP Conference Series**
-DOI :10.1088/1742-6596/3191/1/012095
+This work has been published in the **IOP Conference Series**.
+
+🔗 DOI: 10.1088/1742-6596/3191/1/012095
+
+The publication presents the proposed selective encryption and decryption framework along with experimental results.
 
 ---
 
 ##  Author
-Sandeep Das Yadav P
+Sandeep Das Yadav P.
 B.Tech Electronics and Communication Engineering
