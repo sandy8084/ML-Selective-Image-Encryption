@@ -108,7 +108,7 @@ The dataset is self-generated:
 * Labels are assigned based on **entropy thresholds**
 * The dataset is **normalized** before training the model
 
-The extracted feature datasets for the three images are available in the `data/` folder.
+The extracted feature datasets for the three images are available in the `data/` folder. MATLAB is required for feature extraction.
 
 ---
 
