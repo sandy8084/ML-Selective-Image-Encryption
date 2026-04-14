@@ -157,5 +157,5 @@ The publication presents the proposed selective encryption and decryption framew
 ---
 
 ##  Author
-Sandeep Das Yadav P.
+Sandeep Das Yadav P,
 B.Tech Electronics and Communication Engineering
